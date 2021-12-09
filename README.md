@@ -1,5 +1,5 @@
 
-# MUSIFY - DESIGN
+# NEXTJS MUSIFY - DESIGN
 
 Musify Front End 1 Page App Writing in NEXT JS + TAILWIND + Redux 
 
